@@ -5,6 +5,7 @@ console.log('number', number)
 console.log('str', str)
 //if you add any othere data type value so is't show the error;
 
+
 let value : (string | number)[] = ["vivek",1,"test","test1",152] ;
 console.log("value",value)
 
